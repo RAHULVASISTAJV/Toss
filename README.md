@@ -1,4 +1,4 @@
-# toss
+# Toss
 
 A new Flutter application.
 
